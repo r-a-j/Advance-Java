@@ -18,6 +18,6 @@ public class AddServlet extends HttpServlet
         
         int c = a+b;
         
-        out.print("<h1>Additiion is : </h1>"+c);
+        out.print("Additiion is : "+c);
     }
 }
